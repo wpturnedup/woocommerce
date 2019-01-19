@@ -1,0 +1,23 @@
+/*WOOCOMMERCE - SIGN IN MODAL - SIGN IN BUTTON*/
+.buttons.full-width {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+/*WOOCOMMERCE - SIGN IN MODAL - SOCIAL LOGIN TEXT*/
+p.connect-with {
+    font-weight: 600;
+}
+/*WOOCOMMERCE - SIGN IN MODAL - SOCIAL LOGIN BUTTONS*/
+.cts-social-login-wrapper .buttons {
+	font-weight: 300;
+}
+/*WOOCOMMERCE - SIGN IN MODAL - REGISTER BUTTON*/
+.modal-content form.sign-in-form a.c27-open-modal {
+    padding-bottom: 18px;
+    margin-top: 25px;
+    background-color: #000;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+	font-weight: 600;
+}
