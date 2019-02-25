@@ -1,0 +1,4 @@
+/* ML - PRICING TABLES - SUPERSCRIPT */
+sup {top:-23px;font-size:.3em}
+/* ML - PRICING TABLES - BRING CURRENCY SYMBOL CLOSER AND STYLE IT */
+.pricing-item .plan-price span.woocommerce-Price-currencySymbol {padding-right:0px;top:-18px;font-size:18px}
